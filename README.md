@@ -1,2 +1,2 @@
-# SCI--RMUTP
-SCI-สโมสร RMUTP
+# SCI-สโมสร RMUTP
+จัดทำเพื่อพัฒนาสกิลการเขียน code
